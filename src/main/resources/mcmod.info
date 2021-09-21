@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pollpoll",
+  "name": "PollPoll",
+  "description": "Mod for making and running polls.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
